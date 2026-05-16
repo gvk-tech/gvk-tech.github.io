@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://www.gvktech.co.uk
+Sitemap: https://www.gvktech.co.uk/sitemap.xml
